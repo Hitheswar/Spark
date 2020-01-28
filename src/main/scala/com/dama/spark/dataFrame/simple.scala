@@ -33,5 +33,24 @@ object simple extends App with SparkApp {
 
   summary_df.createOrReplaceTempView("flightData")
 
+  var dfWay = summary_df.groupBy("DEST_COUNTRY_NAME").count()
+  dfWay.show()
+  var sqlWay = spark.sql("select DEST_COUNTRY_NAME, count(1) from flightData group by DEST_COUNTRY_NAME")
+  sqlWay.show()
 
+  dfWay.explain()
+  sqlWay.explain()
+
+  spark.sql("select max(count) from flightData").show()
+
+  import org.apache.spark.sql.functions.max
+  summary_df.select(max("count")).show()
+
+  var maxSql = spark.sql("select  DEST_COUNTRY_NAME, sum(count) as destinationTotal from flightData group By DEST_COUNTRY_NAME order " +
+    "By sum(count) Desc limit 5")               //sqlWay
+  maxSql.collect().foreach(println)
+
+  import org.apache.spark.sql.functions.desc
+  summary_df.groupBy("DEST_COUNTRY_NAME").sum("count").withColumnRenamed("sum(count)","destination_total")
+    .sort(desc("destination_total")) .limit(5) .collect().foreach(println)      //df way
 }
