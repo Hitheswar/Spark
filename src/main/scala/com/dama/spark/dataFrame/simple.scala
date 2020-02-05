@@ -5,12 +5,6 @@ import src.main.scala.com.dama.spark.core.SparkApp
 
 object simple extends App with SparkApp {
 
-  val rootLogger = Logger.getRootLogger()
-  rootLogger.setLevel(Level.ERROR)
-  rootLogger.setLevel(Level.INFO)
-  Logger.getLogger("org").setLevel(Level.OFF)
-  Logger.getLogger("akka").setLevel(Level.OFF)
-
   val spark = sparkSession
 
   val myRange = spark.range(100).toDF("id")

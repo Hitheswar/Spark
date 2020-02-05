@@ -4,11 +4,6 @@ import org.apache.log4j.{Level, Logger}
 
 object rddOperations extends App with SparkApp{
 
-  val rootLogger = Logger.getRootLogger()
-  rootLogger.setLevel(Level.ERROR)
-  rootLogger.setLevel(Level.INFO)
-  Logger.getLogger("org").setLevel(Level.OFF)
-  Logger.getLogger("akka").setLevel(Level.OFF)
 
   val sc = sparkSession.sparkContext
 

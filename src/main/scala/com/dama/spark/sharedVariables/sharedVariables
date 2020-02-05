@@ -1,0 +1,38 @@
+We all know Apache Spark is an open-source and a widely used cluster computing framework, which comes up with built-in features like in-memory
+ computation,streaming API’s, machine learning libraries and graph processing algorithms. Apart from this, Spark provides two types of shared
+ variables which are distributed across cluster nodes to help perform read and write operations like lookup, join, count and summation.
+
+The two shared variables in Spark are listed below:
+
+1.Broadcast Variables
+2.Accumulators
+
+Broadcast Variables:
+
+At times, developers will be storing a dataset of smaller size at the Spark worker nodes in-memory where the higher sized dataset resides to reduce
+the memory I/O and to reduce the communication cost which speeds up the query performance while executing lookup or join operations.
+
+Hence, Broadcast variables are read-only variables that are distributed across worker nodes in-memory instead of shipping a copy of data with tasks.
+
+Broadcast variables are mostly used when the tasks across multiple stages require the same data or when caching the data in the deserialized form
+is required.
+
+Broadcast variables are created using a variable v by calling SparkContext.broadcast(v).
+
+The Broadcast variable is a wrapper around v, and its value can be accessed by calling the value method.
+
+The data broadcasted this way is cached in a serialized form and deserialized before running each task.
+
+
+
+Accumulator :
+
+Similar to Map-reduce counters (to know more on MapReduce counters please visit our blog https://acadgild.com/blog/counters-in-mapreduce)
+Spark introduced shared variables which are used to perform counters or sum operations.
+
+These accumulator variables can only be used when a user wants to perform associative or commutative operations on the data.
+
+The accumulators can be created with or without a name. If the accumulators are created with a name, they can be viewed in Spark’s UI which will
+ be useful to understand the progress of running stages.
+
+ The accumulators are created using an initial value v. by calling SparkContext.accumulator(v)
