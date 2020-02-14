@@ -108,7 +108,7 @@ object rddOperations extends App with SparkApp{
   println("***countByKey***")
   val a4 = sc.parallelize(Array(('J',"James"),('F',"Fred"), ('A',"Anna"),('J',"John")))
   val b4 = a4.countByKey()
-  println(y.collect.toList)
+  println(b4.toList)
 
   println("***saveAsTextFile***")
   val a5 = sc.parallelize(Array(2,4,1))
