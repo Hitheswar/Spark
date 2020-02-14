@@ -1,5 +1,11 @@
 package com.dama.spark.sharedVariables
+/*
+Accumulators are the write only variables which are initialized once and sent to the workers.
+These workers will update based on the logic written and sent back to the driver which will aggregate or process based on the logic.
 
+Only driver can access the accumulator’s value. For tasks, Accumulators are write-only. For example,
+it is used to count the number errors seen in RDD across workers.
+ */
 import src.main.scala.com.dama.spark.core.SparkApp
 
 object Accumulator extends App with SparkApp{

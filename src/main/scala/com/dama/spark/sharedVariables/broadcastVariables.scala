@@ -1,5 +1,9 @@
 package com.dama.spark.sharedVariables
-
+/*
+Broadcast Variables are the read-only shared variables.
+Suppose, there is a set of data which may have to be used multiple times in the workers at different phases,
+we can share all those variables to the workers from the driver and every machine can read them.
+ */
 import src.main.scala.com.dama.spark.core.SparkApp
 
 import scala.reflect.io.File
