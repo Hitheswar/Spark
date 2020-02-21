@@ -30,5 +30,4 @@ object TextFiles extends App with SparkApp{
   //multiText.foreach(f =>println(f))
   //sc.wholeTextFiles(file_path+"ipl_matches*.txt").foreach(files =>println(files._1))
 
-
 }
