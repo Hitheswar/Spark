@@ -1,0 +1,43 @@
+341	2012	Pune	2012-04-26	Deccan Chargers	Pune Warriors	Deccan Chargers	bat	normal	Deccan Chargers
+342	2012	Delhi	2012-04-27	Delhi Daredevils	Mumbai Indians	Mumbai Indians	field	normal	Delhi Daredevils
+343	2012	Chennai	2012-04-28	Kings XI Punjab	Chennai Super Kings	Kings XI Punjab	bat	normal	Kings XI Punjab
+344	2012	Kolkata	2012-04-28	Kolkata Knight Riders	Royal Challengers Bangalore	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+345	2012	Delhi	2012-04-29	Delhi Daredevils	Rajasthan Royals	Delhi Daredevils	bat	normal	Delhi Daredevils
+346	2012	Mumbai	2012-04-29	Deccan Chargers	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+347	2012	Chennai	2012-04-30	Chennai Super Kings	Kolkata Knight Riders	Chennai Super Kings	bat	normal	Kolkata Knight Riders
+348	2012	Cuttack	2012-05-01	Deccan Chargers	Pune Warriors	Deccan Chargers	bat	normal	Deccan Chargers
+349	2012	Jaipur	2012-05-01	Rajasthan Royals	Delhi Daredevils	Rajasthan Royals	bat	normal	Delhi Daredevils
+350	2012	Bangalore	2012-05-02	Royal Challengers Bangalore	Kings XI Punjab	Kings XI Punjab	field	normal	Kings XI Punjab
+351	2012	Pune	2012-05-03	Mumbai Indians	Pune Warriors	Mumbai Indians	bat	normal	Mumbai Indians
+352	2012	Chennai	2012-05-04	Chennai Super Kings	Deccan Chargers	Chennai Super Kings	bat	normal	Chennai Super Kings
+353	2012	Kolkata	2012-05-05	Kolkata Knight Riders	Pune Warriors	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+354	2012	Chandigarh	2012-05-05	Rajasthan Royals	Kings XI Punjab	Rajasthan Royals	bat	normal	Rajasthan Royals
+355	2012	Mumbai	2012-05-06	Chennai Super Kings	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+356	2012	Bangalore	2012-05-06	Deccan Chargers	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Royal Challengers Bangalore
+357	2012	Delhi	2012-05-07	Delhi Daredevils	Kolkata Knight Riders	Delhi Daredevils	bat	normal	Kolkata Knight Riders
+358	2012	Pune	2012-05-08	Pune Warriors	Rajasthan Royals	Pune Warriors	bat	normal	Rajasthan Royals
+359	2012	Hyderabad	2012-05-08	Kings XI Punjab	Deccan Chargers	Deccan Chargers	field	normal	Kings XI Punjab
+360	2012	Mumbai	2012-05-09	Mumbai Indians	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Royal Challengers Bangalore
+361	2012	Jaipur	2012-05-10	Rajasthan Royals	Chennai Super Kings	Chennai Super Kings	field	normal	Chennai Super Kings
+362	2012	Pune	2012-05-11	Royal Challengers Bangalore	Pune Warriors	Pune Warriors	field	normal	Royal Challengers Bangalore
+363	2012	Kolkata	2012-05-12	Mumbai Indians	Kolkata Knight Riders	Mumbai Indians	bat	normal	Mumbai Indians
+364	2012	Chennai	2012-05-12	Delhi Daredevils	Chennai Super Kings	Chennai Super Kings	field	normal	Chennai Super Kings
+365	2012	Jaipur	2012-05-13	Rajasthan Royals	Pune Warriors	Rajasthan Royals	bat	normal	Rajasthan Royals
+366	2012	Chandigarh	2012-05-13	Deccan Chargers	Kings XI Punjab	Deccan Chargers	bat	normal	Kings XI Punjab
+367	2012	Bangalore	2012-05-14	Royal Challengers Bangalore	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+368	2012	Kolkata	2012-05-14	Kolkata Knight Riders	Chennai Super Kings	Chennai Super Kings	field	normal	Chennai Super Kings
+369	2012	Delhi	2012-05-15	Kings XI Punjab	Delhi Daredevils	Kings XI Punjab	bat	normal	Delhi Daredevils
+370	2012	Mumbai	2012-05-16	Kolkata Knight Riders	Mumbai Indians	Mumbai Indians	field	normal	Kolkata Knight Riders
+371	2012	Dharamsala	2012-05-17	Chennai Super Kings	Kings XI Punjab	Kings XI Punjab	field	normal	Kings XI Punjab
+372	2012	Delhi	2012-05-17	Royal Challengers Bangalore	Delhi Daredevils	Delhi Daredevils	field	normal	Royal Challengers Bangalore
+373	2012	Hyderabad	2012-05-18	Rajasthan Royals	Deccan Chargers	Rajasthan Royals	bat	normal	Deccan Chargers
+374	2012	Dharamsala	2012-05-19	Kings XI Punjab	Delhi Daredevils	Delhi Daredevils	field	normal	Delhi Daredevils
+375	2012	Pune	2012-05-19	Kolkata Knight Riders	Pune Warriors	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+376	2012	Hyderabad	2012-05-20	Deccan Chargers	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Deccan Chargers
+377	2012	Jaipur	2012-05-20	Rajasthan Royals	Mumbai Indians	Rajasthan Royals	bat	normal	Mumbai Indians
+378	2012	Pune	2012-05-22	Kolkata Knight Riders	Delhi Daredevils	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+379	2012	Bangalore	2012-05-23	Chennai Super Kings	Mumbai Indians	Mumbai Indians	field	normal	Chennai Super Kings
+380	2012	Chennai	2012-05-25	Chennai Super Kings	Delhi Daredevils	Delhi Daredevils	field	normal	Chennai Super Kings
+381	2012	Chennai	2012-05-27	Chennai Super Kings	Kolkata Knight Riders	Chennai Super Kings	bat	normal	Kolkata Knight Riders
+382	2013	Kolkata	2013-04-03	Delhi Daredevils	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+383	2013	Bangalore	2013-04-04	Royal Challengers Bangalore	Mumbai Indians	Mumbai Indians	field	normal	Royal Challengers Bangalore
