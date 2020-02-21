@@ -1,4 +1,4 @@
-package com.dama.spark.common
+package com.dama.spark.rdd
 import src.main.scala.com.dama.spark.core.SparkApp
 import org.apache.log4j.{Level, Logger}
 

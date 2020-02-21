@@ -1,0 +1,51 @@
+MATCH_ID	SEASON	CITY	DATE	TEAM1	TEAM2	TOSS_WINNER	TOSS_DECISION	RESULT	WINNER
+50	2017	Mumbai	2017-05-11	Kings XI Punjab	Mumbai Indians	Mumbai Indians	field	normal	Kings XI Punjab
+51	2017	Delhi	2017-05-12	Delhi Daredevils	Rising Pune Supergiant	Delhi Daredevils	bat	normal	Delhi Daredevils
+52	2017	Kanpur	2017-05-13	Gujarat Lions	Sunrisers Hyderabad	Sunrisers Hyderabad	field	normal	Sunrisers Hyderabad
+53	2017	Kolkata	2017-05-13	Mumbai Indians	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Mumbai Indians
+54	2017	Pune	2017-05-14	Kings XI Punjab	Rising Pune Supergiant	Rising Pune Supergiant	field	normal	Rising Pune Supergiant
+55	2017	Delhi	2017-05-14	Royal Challengers Bangalore	Delhi Daredevils	Royal Challengers Bangalore	bat	normal	Royal Challengers Bangalore
+56	2017	Mumbai	2017-05-16	Rising Pune Supergiant	Mumbai Indians	Mumbai Indians	field	normal	Rising Pune Supergiant
+57	2017	Bangalore	2017-05-17	Sunrisers Hyderabad	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+58	2017	Bangalore	2017-05-19	Kolkata Knight Riders	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+59	2017	Hyderabad	2017-05-21	Mumbai Indians	Rising Pune Supergiant	Mumbai Indians	bat	normal	Mumbai Indians
+60	2008	Bangalore	2008-04-18	Kolkata Knight Riders	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Kolkata Knight Riders
+61	2008	Chandigarh	2008-04-19	Chennai Super Kings	Kings XI Punjab	Chennai Super Kings	bat	normal	Chennai Super Kings
+62	2008	Delhi	2008-04-19	Rajasthan Royals	Delhi Daredevils	Rajasthan Royals	bat	normal	Delhi Daredevils
+63	2008	Mumbai	2008-04-20	Mumbai Indians	Royal Challengers Bangalore	Mumbai Indians	bat	normal	Royal Challengers Bangalore
+64	2008	Kolkata	2008-04-20	Deccan Chargers	Kolkata Knight Riders	Deccan Chargers	bat	normal	Kolkata Knight Riders
+65	2008	Jaipur	2008-04-21	Kings XI Punjab	Rajasthan Royals	Kings XI Punjab	bat	normal	Rajasthan Royals
+66	2008	Hyderabad	2008-04-22	Deccan Chargers	Delhi Daredevils	Deccan Chargers	bat	normal	Delhi Daredevils
+67	2008	Chennai	2008-04-23	Chennai Super Kings	Mumbai Indians	Mumbai Indians	field	normal	Chennai Super Kings
+68	2008	Hyderabad	2008-04-24	Deccan Chargers	Rajasthan Royals	Rajasthan Royals	field	normal	Rajasthan Royals
+69	2008	Chandigarh	2008-04-25	Kings XI Punjab	Mumbai Indians	Mumbai Indians	field	normal	Kings XI Punjab
+70	2008	Bangalore	2008-04-26	Royal Challengers Bangalore	Rajasthan Royals	Rajasthan Royals	field	normal	Rajasthan Royals
+71	2008	Chennai	2008-04-26	Kolkata Knight Riders	Chennai Super Kings	Kolkata Knight Riders	bat	normal	Chennai Super Kings
+72	2008	Mumbai	2008-04-27	Mumbai Indians	Deccan Chargers	Deccan Chargers	field	normal	Deccan Chargers
+73	2008	Chandigarh	2008-04-27	Delhi Daredevils	Kings XI Punjab	Delhi Daredevils	bat	normal	Kings XI Punjab
+74	2008	Bangalore	2008-04-28	Chennai Super Kings	Royal Challengers Bangalore	Chennai Super Kings	bat	normal	Chennai Super Kings
+75	2008	Kolkata	2008-04-29	Kolkata Knight Riders	Mumbai Indians	Kolkata Knight Riders	bat	normal	Mumbai Indians
+76	2008	Delhi	2008-04-30	Delhi Daredevils	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Delhi Daredevils
+77	2008	Hyderabad	2008-05-01	Deccan Chargers	Kings XI Punjab	Kings XI Punjab	field	normal	Kings XI Punjab
+78	2008	Jaipur	2008-05-01	Rajasthan Royals	Kolkata Knight Riders	Rajasthan Royals	bat	normal	Rajasthan Royals
+79	2008	Chennai	2008-05-02	Chennai Super Kings	Delhi Daredevils	Chennai Super Kings	bat	normal	Delhi Daredevils
+80	2008	Hyderabad	2008-05-25	Deccan Chargers	Royal Challengers Bangalore	Deccan Chargers	bat	normal	Royal Challengers Bangalore
+81	2008	Chandigarh	2008-05-03	Kings XI Punjab	Kolkata Knight Riders	Kings XI Punjab	bat	normal	Kings XI Punjab
+82	2008	Mumbai	2008-05-04	Mumbai Indians	Delhi Daredevils	Delhi Daredevils	field	normal	Mumbai Indians
+83	2008	Jaipur	2008-05-04	Chennai Super Kings	Rajasthan Royals	Chennai Super Kings	bat	normal	Rajasthan Royals
+84	2008	Bangalore	2008-05-05	Royal Challengers Bangalore	Kings XI Punjab	Kings XI Punjab	field	normal	Kings XI Punjab
+85	2008	Chennai	2008-05-06	Chennai Super Kings	Deccan Chargers	Deccan Chargers	field	normal	Deccan Chargers
+86	2008	Mumbai	2008-05-07	Rajasthan Royals	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+87	2008	Delhi	2008-05-08	Delhi Daredevils	Chennai Super Kings	Chennai Super Kings	field	normal	Chennai Super Kings
+88	2008	Kolkata	2008-05-08	Kolkata Knight Riders	Royal Challengers Bangalore	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+89	2008	Jaipur	2008-05-09	Deccan Chargers	Rajasthan Royals	Rajasthan Royals	field	normal	Rajasthan Royals
+90	2008	Bangalore	2008-05-28	Royal Challengers Bangalore	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+91	2008	Chennai	2008-05-10	Chennai Super Kings	Kings XI Punjab	Kings XI Punjab	field	normal	Chennai Super Kings
+92	2008	Hyderabad	2008-05-11	Kolkata Knight Riders	Deccan Chargers	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+93	2008	Jaipur	2008-05-11	Delhi Daredevils	Rajasthan Royals	Rajasthan Royals	field	normal	Rajasthan Royals
+94	2008	Chandigarh	2008-05-12	Royal Challengers Bangalore	Kings XI Punjab	Royal Challengers Bangalore	bat	normal	Kings XI Punjab
+95	2008	Kolkata	2008-05-13	Kolkata Knight Riders	Delhi Daredevils	Kolkata Knight Riders	bat	normal	Kolkata Knight Riders
+96	2008	Mumbai	2008-05-14	Chennai Super Kings	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+97	2008	Chandigarh	2008-05-28	Kings XI Punjab	Rajasthan Royals	Rajasthan Royals	field	normal	Kings XI Punjab
+98	2008	Delhi	2008-05-15	Delhi Daredevils	Deccan Chargers	Deccan Chargers	field	normal	Delhi Daredevils
+99	2008	Mumbai	2008-05-16	Kolkata Knight Riders	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians

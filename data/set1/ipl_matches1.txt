@@ -1,0 +1,50 @@
+MATCH_ID	SEASON	CITY	DATE	TEAM1	TEAM2	TOSS_WINNER	TOSS_DECISION	RESULT	WINNER
+1	2017	Hyderabad	2017-04-05	Sunrisers Hyderabad	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Sunrisers Hyderabad
+2	2017	Pune	2017-04-06	Mumbai Indians	Rising Pune Supergiant	Rising Pune Supergiant	field	normal	Rising Pune Supergiant
+3	2017	Rajkot	2017-04-07	Gujarat Lions	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+4	2017	Indore	2017-04-08	Rising Pune Supergiant	Kings XI Punjab	Kings XI Punjab	field	normal	Kings XI Punjab
+5	2017	Bangalore	2017-04-08	Royal Challengers Bangalore	Delhi Daredevils	Royal Challengers Bangalore	bat	normal	Royal Challengers Bangalore
+6	2017	Hyderabad	2017-04-09	Gujarat Lions	Sunrisers Hyderabad	Sunrisers Hyderabad	field	normal	Sunrisers Hyderabad
+7	2017	Mumbai	2017-04-09	Kolkata Knight Riders	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+8	2017	Indore	2017-04-10	Royal Challengers Bangalore	Kings XI Punjab	Royal Challengers Bangalore	bat	normal	Kings XI Punjab
+9	2017	Pune	2017-04-11	Delhi Daredevils	Rising Pune Supergiant	Rising Pune Supergiant	field	normal	Delhi Daredevils
+10	2017	Mumbai	2017-04-12	Sunrisers Hyderabad	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+11	2017	Kolkata	2017-04-13	Kings XI Punjab	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+12	2017	Bangalore	2017-04-14	Royal Challengers Bangalore	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+13	2017	Rajkot	2017-04-14	Rising Pune Supergiant	Gujarat Lions	Gujarat Lions	field	normal	Gujarat Lions
+14	2017	Kolkata	2017-04-15	Kolkata Knight Riders	Sunrisers Hyderabad	Sunrisers Hyderabad	field	normal	Kolkata Knight Riders
+15	2017	Delhi	2017-04-15	Delhi Daredevils	Kings XI Punjab	Delhi Daredevils	bat	normal	Delhi Daredevils
+16	2017	Mumbai	2017-04-16	Gujarat Lions	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+17	2017	Bangalore	2017-04-16	Rising Pune Supergiant	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Rising Pune Supergiant
+18	2017	Delhi	2017-04-17	Delhi Daredevils	Kolkata Knight Riders	Delhi Daredevils	bat	normal	Kolkata Knight Riders
+19	2017	Hyderabad	2017-04-17	Sunrisers Hyderabad	Kings XI Punjab	Kings XI Punjab	field	normal	Sunrisers Hyderabad
+20	2017	Rajkot	2017-04-18	Royal Challengers Bangalore	Gujarat Lions	Gujarat Lions	field	normal	Royal Challengers Bangalore
+21	2017	Hyderabad	2017-04-19	Sunrisers Hyderabad	Delhi Daredevils	Sunrisers Hyderabad	bat	normal	Sunrisers Hyderabad
+22	2017	Indore	2017-04-20	Kings XI Punjab	Mumbai Indians	Mumbai Indians	field	normal	Mumbai Indians
+23	2017	Kolkata	2017-04-21	Kolkata Knight Riders	Gujarat Lions	Gujarat Lions	field	normal	Gujarat Lions
+24	2017	Mumbai	2017-04-22	Mumbai Indians	Delhi Daredevils	Delhi Daredevils	field	normal	Mumbai Indians
+25	2017	Pune	2017-04-22	Sunrisers Hyderabad	Rising Pune Supergiant	Rising Pune Supergiant	field	normal	Rising Pune Supergiant
+26	2017	Rajkot	2017-04-23	Kings XI Punjab	Gujarat Lions	Gujarat Lions	field	normal	Kings XI Punjab
+27	2017	Kolkata	2017-04-23	Kolkata Knight Riders	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Kolkata Knight Riders
+28	2017	Mumbai	2017-04-24	Rising Pune Supergiant	Mumbai Indians	Mumbai Indians	field	normal	Rising Pune Supergiant
+29	2017	Pune	2017-04-26	Rising Pune Supergiant	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+30	2017	Bangalore	2017-04-27	Royal Challengers Bangalore	Gujarat Lions	Gujarat Lions	field	normal	Gujarat Lions
+31	2017	Kolkata	2017-04-28	Delhi Daredevils	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+32	2017	Chandigarh	2017-04-28	Sunrisers Hyderabad	Kings XI Punjab	Kings XI Punjab	field	normal	Sunrisers Hyderabad
+33	2017	Pune	2017-04-29	Rising Pune Supergiant	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Rising Pune Supergiant
+34	2017	Rajkot	2017-04-29	Gujarat Lions	Mumbai Indians	Gujarat Lions	bat	tie	Mumbai Indians
+35	2017	Chandigarh	2017-04-30	Delhi Daredevils	Kings XI Punjab	Kings XI Punjab	field	normal	Kings XI Punjab
+36	2017	Hyderabad	2017-04-30	Sunrisers Hyderabad	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Sunrisers Hyderabad
+37	2017	Mumbai	2017-05-01	Royal Challengers Bangalore	Mumbai Indians	Royal Challengers Bangalore	bat	normal	Mumbai Indians
+38	2017	Pune	2017-05-01	Gujarat Lions	Rising Pune Supergiant	Rising Pune Supergiant	field	normal	Rising Pune Supergiant
+39	2017	Delhi	2017-05-02	Sunrisers Hyderabad	Delhi Daredevils	Delhi Daredevils	field	normal	Delhi Daredevils
+40	2017	Kolkata	2017-05-03	Kolkata Knight Riders	Rising Pune Supergiant	Rising Pune Supergiant	field	normal	Rising Pune Supergiant
+41	2017	Delhi	2017-05-04	Gujarat Lions	Delhi Daredevils	Delhi Daredevils	field	normal	Delhi Daredevils
+42	2017	Bangalore	2017-05-05	Kings XI Punjab	Royal Challengers Bangalore	Royal Challengers Bangalore	field	normal	Kings XI Punjab
+43	2017	Hyderabad	2017-05-06	Rising Pune Supergiant	Sunrisers Hyderabad	Sunrisers Hyderabad	field	normal	Rising Pune Supergiant
+44	2017	Delhi	2017-05-06	Mumbai Indians	Delhi Daredevils	Delhi Daredevils	field	normal	Mumbai Indians
+45	2017	Bangalore	2017-05-07	Royal Challengers Bangalore	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kolkata Knight Riders
+46	2017	Chandigarh	2017-05-07	Kings XI Punjab	Gujarat Lions	Gujarat Lions	field	normal	Gujarat Lions
+47	2017	Hyderabad	2017-05-08	Mumbai Indians	Sunrisers Hyderabad	Mumbai Indians	bat	normal	Sunrisers Hyderabad
+48	2017	Chandigarh	2017-05-09	Kings XI Punjab	Kolkata Knight Riders	Kolkata Knight Riders	field	normal	Kings XI Punjab
+49	2017	Kanpur	2017-05-10	Gujarat Lions	Delhi Daredevils	Delhi Daredevils	field	normal	Delhi Daredevils

@@ -1,4 +1,4 @@
-package com.dama.spark.common
+package com.dama.spark.rdd
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkConf
