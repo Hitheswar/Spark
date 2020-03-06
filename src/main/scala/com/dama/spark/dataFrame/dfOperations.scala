@@ -23,15 +23,30 @@ object dfOperations extends App with SparkApp{
     echo 536365,71053,WHITE METAL LANTERN,6,2010-12-01 08:26:00,3.39,17850.0,United Kingdom >> retailData.csv
     echo 536365,84406B,CREAM CUPID HEARTS COAT HANGER,8,2010-12-01 08:26:00,2.75,17850.0,United Kingdom >> retailData.csv       */
 
-  var retailDf =  spark.read.format("csv").option("header", "true").option("inferSchema", "true")
+/*  var retailDf =  spark.read.format("csv").option("header", "true").option("inferSchema", "true")
                   .load("H:\\STudy\\test\\csv\\retailData.csv")
   retailDf.createOrReplaceTempView("retail_data")
   val staticSchema = retailDf.schema
-  println(staticSchema)
+  println(staticSchema)*/
 
   import org.apache.spark.sql.functions.{window, column, desc, col}
-  retailDf.selectExpr( "CustomerId", "(UnitPrice * Quantity) as total_cost", "InvoiceDate") .groupBy(  col("CustomerId"),
+ /* retailDf.selectExpr( "CustomerId", "(UnitPrice * Quantity) as total_cost", "InvoiceDate") .groupBy(  col("CustomerId"),
     window(col("InvoiceDate"), "1 day")) .sum("total_cost") .show(5)
+*/
+
+
+
+
+
+
+
+  var df = sparkSession.read.csv("H:\\STudy\\test\\tw\\DE_Scala_MovingAverageAssignment-20191210T051850Z-001\\DE_MovingAverageAssignment_scala\\src\\test\\resources\\input\\stock_prices\\0.csv").createOrReplaceTempView("stockPrices")
+
+
+
+
+
+
 
 
 

@@ -1,9 +1,9 @@
-package com.dama.spark.window
+package com.dama.spark.sparkSql.window
 
-import src.main.scala.com.dama.spark.core.SparkApp
-import org.apache.spark.sql.functions._
-import org.apache.spark.sql._
 import org.apache.spark.sql.expressions.Window
+import org.apache.spark.sql.functions.{rank, row_number}
+import src.main.scala.com.dama.spark.core.SparkApp
+
 object Rank extends App with SparkApp{
   import sparkSession.implicits._
   val simpleData = Seq(("James", "Sales", 3000),

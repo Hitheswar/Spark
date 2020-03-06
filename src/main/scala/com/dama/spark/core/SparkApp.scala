@@ -6,9 +6,9 @@ import org.apache.spark.sql.SparkSession
 
 trait SparkApp extends App{
 
-  lazy val sparkConf = new SparkConf().setAppName("Learn Spark").setMaster("local[*]").set("spark.cores.max", "2")
+  implicit lazy val sparkConf = new SparkConf().setAppName("Learn Spark").setMaster("local[*]").set("spark.cores.max", "2")
 
-  lazy val sparkSession = SparkSession.builder().config(sparkConf).getOrCreate()
+  implicit lazy val sparkSession = SparkSession.builder().config(sparkConf).getOrCreate()
   import sparkSession.implicits._
   val rootLogger = Logger.getRootLogger()
   rootLogger.setLevel(Level.ERROR)
